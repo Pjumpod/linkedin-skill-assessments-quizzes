@@ -280,7 +280,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 ### Q40. Which of the following is NOT a suggested security improvement for your WordPress website?
 - [ ] The site should communicate with WordPress.org.
 - [ ] Remove inactive themes.
-- [ ] Do not output debug information.
+- [X] Do not output debug information.
 - [ ] WordPress updates are accomplished manually only.
 
 ### Q41. What's the primary difference between template tags prefaced with the* versus get_the*?
